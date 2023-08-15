@@ -1,0 +1,22 @@
+h1{
+    color:red;
+}
+
+body{
+    background-color:cyan;
+}
+
+#para{
+    color:red;
+    visibility:hidden;
+}
+
+#Imready{
+    background-color:red;
+    color:yellow;
+    border:gold 3px solid;
+    height:60%;
+    width:70%;
+    cursor:pointer;
+    font-size:40px;
+}
